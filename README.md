@@ -1,9 +1,5 @@
 # COMP30019 Assignment 1 - Ray Tracer
 
-This is your README.md... you should write anything relevant to your implementation here.
-
-Please ensure your student details are specified below (_exactly_ as on UniMelb records):
-
 **Name:** Jia Hern Lee \
 **Student Number:** 997562 \
 **Username:** jiahern \
